@@ -1,0 +1,14 @@
+CMacroLFP and CLFP
+Sampling frequency = 1375 Hz
+Bit resolution = 38.1470
+Gain = 20
+
+CLFP recorded from microtip
+CMacroLFP recorded from macro collar 3 mm dorsal to microtip
+
+Voltage data stored a 16bit
+
+Band ranges:
+Theta:  4-10Hz
+Beta:   15-45Hz
+Gamma:  50-90Hz
